@@ -1,1 +1,1 @@
-# Quasarhackathon
+# GDGhackathon
